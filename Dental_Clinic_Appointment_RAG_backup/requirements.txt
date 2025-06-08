@@ -1,0 +1,14 @@
+streamlit
+mysql-connector-python
+langchain
+chromadb
+python-dotenv
+langchain-community
+pdfminer.six
+unstructured
+pi_heif
+unstructured-inference
+pdf2image
+pytesseract
+openai
+tiktoken
